@@ -1,0 +1,239 @@
+~ $ brew install libxml2-dev
+Updating Homebrew...
+==> Auto-updated Homebrew!
+Updated 1 tap (homebrew/core).
+==> Updated Formulae
+Updated 31 formulae.
+
+Error: No available formula or cask with the name "libxml2-dev".
+==> Searching for a previously deleted formula (in the last month)...
+Error: No previously deleted formula found.
+==> Searching for similarly named formulae...
+Error: No similarly named formulae found.
+==> Searching taps...
+==> Searching taps on GitHub...
+Error: No formulae found in taps.
+
+
+~ $ brew install libxml2
+Updating Homebrew...
+Warning: libxml2 2.9.10_1 is already installed and up-to-date
+To reinstall 2.9.10_1, run `brew reinstall libxml2`
+
+~ $ cargo install --git https://github.com/hyperledger-labs/solang --tag m8
+    Updating git repository `https://github.com/hyperledger-labs/solang`
+  Installing solang v0.1.2 (https://github.com/hyperledger-labs/solang?tag=m8#454f0afd)
+    Updating crates.io index
+  Downloaded syn v1.0.45
+  Downloaded 1 crate (225.6 KB) in 1.00s
+   Compiling libc v0.2.79
+   Compiling autocfg v1.0.1
+   Compiling cfg-if v0.1.10
+   Compiling lazy_static v1.4.0
+   Compiling proc-macro2 v1.0.24
+   Compiling unicode-xid v0.2.1
+   Compiling byteorder v1.3.4
+   Compiling syn v1.0.45
+   Compiling semver-parser v0.7.0
+   Compiling memchr v2.3.3
+   Compiling log v0.4.11
+   Compiling either v1.6.1
+   Compiling futures v0.1.30
+   Compiling serde v1.0.117
+   Compiling serde_derive v1.0.117
+   Compiling maybe-uninit v2.0.0
+   Compiling getrandom v0.1.15
+   Compiling regex-syntax v0.6.20
+   Compiling version_check v0.9.2
+   Compiling autocfg v0.1.7
+   Compiling scopeguard v1.1.0
+   Compiling rand_core v0.4.2
+   Compiling matches v0.1.8
+   Compiling tinyvec v0.3.4
+   Compiling slab v0.4.2
+   Compiling fnv v1.0.7
+   Compiling bitflags v1.2.1
+   Compiling ppv-lite86 v0.2.9
+   Compiling itoa v0.4.6
+   Compiling hashbrown v0.9.1
+   Compiling ryu v1.0.5
+   Compiling core-foundation-sys v0.7.0
+   Compiling serde_json v1.0.59
+   Compiling adler v0.2.3
+   Compiling failure_derive v0.1.8
+   Compiling typenum v1.12.0
+   Compiling gimli v0.22.0
+   Compiling httparse v1.3.4
+   Compiling percent-encoding v1.0.1
+   Compiling native-tls v0.2.4
+   Compiling rustc-demangle v0.1.17
+   Compiling cfg-if v1.0.0
+   Compiling try-lock v0.2.3
+   Compiling siphasher v0.3.3
+   Compiling crc32fast v1.2.0
+   Compiling remove_dir_all v0.5.3
+   Compiling percent-encoding v2.1.0
+   Compiling object v0.21.1
+   Compiling encoding_rs v0.8.24
+   Compiling dtoa v0.4.6
+   Compiling proc-macro2 v0.4.30
+   Compiling mime v0.3.16
+   Compiling byte-tools v0.3.1
+   Compiling cc v1.0.61
+   Compiling unicode-xid v0.1.0
+   Compiling bit-vec v0.6.2
+   Compiling precomputed-hash v0.1.1
+   Compiling strsim v0.9.3
+   Compiling syn v0.15.44
+   Compiling fixedbitset v0.2.0
+   Compiling new_debug_unreachable v1.0.4
+   Compiling opaque-debug v0.2.3
+   Compiling fake-simd v0.1.2
+   Compiling lalrpop-util v0.19.1
+   Compiling diff v0.1.12
+   Compiling arrayvec v0.4.12
+   Compiling crunchy v0.2.2
+   Compiling smallvec v1.4.2
+   Compiling proc-macro-hack v0.5.18
+   Compiling nodrop v0.1.14
+   Compiling inkwell v0.1.0-llvm8sample
+   Compiling unicode-width v0.1.8
+   Compiling vec_map v0.8.2
+   Compiling strsim v0.8.0
+   Compiling ansi_term v0.11.0
+   Compiling constant_time_eq v0.1.5
+   Compiling once_cell v1.4.1
+   Compiling parity-wasm v0.41.0
+   Compiling hex v0.4.2
+   Compiling try_from v0.3.2
+   Compiling thread_local v1.0.1
+   Compiling semver v0.9.0
+   Compiling crossbeam-utils v0.7.2
+   Compiling indexmap v1.6.0
+   Compiling memoffset v0.5.6
+   Compiling crossbeam-epoch v0.8.2
+   Compiling miniz_oxide v0.4.3
+   Compiling num-traits v0.2.12
+   Compiling num-integer v0.1.43
+   Compiling num-bigint v0.2.6
+   Compiling itertools v0.9.0
+   Compiling unicode-bidi v0.3.4
+   Compiling lock_api v0.3.4
+   Compiling rand_core v0.3.1
+   Compiling unicase v2.6.0
+   Compiling error-chain v0.12.4
+   Compiling rand_pcg v0.1.2
+   Compiling rand_chacha v0.1.1
+   Compiling rand v0.6.5
+   Compiling unicode-normalization v0.1.13
+   Compiling phf_shared v0.8.0
+   Compiling block-padding v0.1.5
+   Compiling bit-set v0.5.2
+   Compiling tokio-sync v0.1.8
+   Compiling textwrap v0.11.0
+   Compiling rustc_version v0.2.3
+   Compiling addr2line v0.13.0
+   Compiling rand_isaac v0.1.1
+   Compiling rand_hc v0.1.0
+   Compiling rand_xorshift v0.1.1
+   Compiling aho-corasick v0.7.14
+   Compiling idna v0.1.5
+   Compiling idna v0.2.0
+   Compiling want v0.2.0
+   Compiling ena v0.14.0
+   Compiling quote v1.0.7
+   Compiling base64 v0.10.1
+   Compiling iovec v0.1.4
+   Compiling num_cpus v1.13.0
+   Compiling net2 v0.2.35
+   Compiling time v0.1.44
+   Compiling rand_jitter v0.1.4
+   Compiling rand_os v0.1.3
+   Compiling dirs v1.0.5
+   Compiling atty v0.2.14
+   Compiling parking_lot_core v0.7.2
+   Compiling smallvec v0.6.13
+   Compiling parking_lot_core v0.6.2
+   Compiling parking_lot v0.9.0
+   Compiling hyper v0.12.35
+   Compiling core-foundation v0.7.0
+   Compiling security-framework-sys v0.4.3
+   Compiling tiny-keccak v1.5.0
+   Compiling blake2-rfc v0.2.18
+   Compiling quote v0.6.13
+   Compiling generic-array v0.12.3
+   Compiling url v1.7.2
+   Compiling url v2.1.1
+   Compiling regex v1.4.1
+   Compiling tokio-executor v0.1.10
+   Compiling crossbeam-queue v0.2.3
+   Compiling bytes v0.4.12
+   Compiling petgraph v0.5.1
+   Compiling futures-cpupool v0.1.8
+   Compiling rand_core v0.5.1
+   Compiling backtrace v0.3.53
+   Compiling flate2 v1.0.18
+   Compiling mio v0.6.22
+   Compiling term v0.5.2
+   Compiling clap v2.33.3
+   Compiling parking_lot v0.10.2
+   Compiling mime_guess v2.0.3
+   Compiling security-framework v0.4.4
+   Compiling digest v0.8.1
+   Compiling block-buffer v0.7.3
+   Compiling tokio-timer v0.2.13
+   Compiling tokio-current-thread v0.1.7
+   Compiling cookie v0.12.0
+   Compiling crossbeam-deque v0.7.3
+   Compiling tokio-io v0.1.13
+   Compiling http v0.1.21
+   Compiling tokio-buf v0.1.1
+   Compiling string v0.2.1
+   Compiling rand_chacha v0.2.2
+   Compiling rand_pcg v0.2.1
+   Compiling publicsuffix v1.5.4
+   Compiling ascii-canvas v2.0.0
+   Compiling sha2 v0.8.2
+   Compiling uuid v0.7.4
+   Compiling llvm-sys v80.3.0
+   Compiling tokio-threadpool v0.1.18
+   Compiling rand v0.7.3
+   Compiling synstructure v0.12.4
+   Compiling http-body v0.1.0
+   Compiling h2 v0.1.26
+   Compiling tempfile v3.1.0
+   Compiling phf_generator v0.8.0
+   Compiling tokio-reactor v0.1.12
+   Compiling tokio-tcp v0.1.4
+   Compiling tokio v0.1.22
+   Compiling phf_macros v0.8.0
+   Compiling num-derive v0.3.2
+   Compiling failure v0.1.8
+   Compiling phf v0.8.0
+   Compiling hyper-tls v0.3.2
+   Compiling toml v0.5.7
+   Compiling serde_urlencoded v0.5.5
+   Compiling docopt v1.1.0
+   Compiling string_cache v0.8.0
+   Compiling lalrpop v0.19.1
+   Compiling cookie_store v0.7.0
+   Compiling cargo_toml v0.8.1
+   Compiling reqwest v0.9.24
+   Compiling inkwell_internals v0.1.0
+   Compiling solang v0.1.2 (/Users/mario/.cargo/git/checkouts/solang-98203f5abd7a90ef/454f0af)
+error: linking with `cc` failed: exit code: 1
+  |
+  = note: "cc" "-m64" "-arch" "x86_64" "-L" "/Users/mario/.rustup/toolchains/nightly-2020-10-06-x86_64-apple-darwin/lib/rustlib/x86_64-apple-darwin/lib" "/var/folders/80/h1pbp02n16509dfn44v7__0r0000gp/T/cargo-installxa8sww/release/deps/solang.solang.7a4irueh-cgu.4.rcgu.o" "-o" "/var/folders/80/h1pbp02n16509dfn44v7__0r0000gp/T/cargo-installxa8sww/release/deps/solang" "-Wl,-dead_strip" "-nodefaultlibs" "-L" "/var/folders/80/h1pbp02n16509dfn44v7__0r0000gp/T/cargo-installxa8sww/release/deps" "-L" "/var/folders/80/h1pbp02n16509dfn44v7__0r0000gp/T/cargo-installxa8sww/release/build/llvm-sys-86bae2c2240b5f6a/out" "-L" "/usr/local/Cellar/llvm/10.0.1_1/lib" "-L" "/Users/mario/.rustup/toolchains/nightly-2020-10-06-x86_64-apple-darwin/lib/rustlib/x86_64-apple-darwin/lib" "/var/folders/80/h1pbp02n16509dfn44v7__0r0000gp/T/rustcjtNNtM/libllvm_sys-4e3232cedbc1d351.rlib" "/Users/mario/.rustup/toolchains/nightly-2020-10-06-x86_64-apple-darwin/lib/rustlib/x86_64-apple-darwin/lib/libcompiler_builtins-4071d15d8824a4bb.rlib" "-lffi" "-lm" "-lz" "-lcurses" "-llibxml2.tbd" "-lc++" "-lSystem" "-lresolv" "-lc" "-lm"
+  = note: ld: library not found for -llibxml2.tbd
+          clang: error: linker command failed with exit code 1 (use -v to see invocation)
+          
+
+error: aborting due to previous error
+
+error: failed to compile `solang v0.1.2 (https://github.com/hyperledger-labs/solang?tag=m8#454f0afd)`, intermediate artifacts can be found at `/var/folders/80/h1pbp02n16509dfn44v7__0r0000gp/T/cargo-installxa8sww`
+
+Caused by:
+  could not compile `solang`
+
+To learn more, run the command again with --verbose.
+~ $ 
