@@ -1,0 +1,12 @@
+{
+  "name": "polkadot-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "back": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^2.2.1"
+  }
+}
