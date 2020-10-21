@@ -26,7 +26,8 @@ https://gitcoin.co/hackathon/polkadot/projects
 ## Front-End Javascript ##
 >Use Polkadot-JS or the Front-End Template to write a web page (hosted on GitHub pages or similar) that displays information about the latest block on Kusama, Polkadot or any other Substrate-based chain. Bonus: include a component to search for a block by number (height) and/or hash.
 
-[Solution](https://github.com/Maar-io/substrate-front-end-template)
+[Solution](https://github.com/Maar-io/substrate-front-end-template) 
+[github.io](https://maar-io.github.io/substrate-front-end-template/)
 
 ## Run a Kusama or Polkadot node and add it to Telemetry ##
 >Download the latest binary release or build Polkadot or Kusama from source, and run your node. Add it to telemetry as per the README instructions, and let us know when your node appears in the telemetry.polkadot.io list!
