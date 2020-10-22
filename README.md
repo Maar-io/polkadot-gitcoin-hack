@@ -32,7 +32,7 @@ https://gitcoin.co/hackathon/polkadot/projects
 ## Run a Kusama or Polkadot node and add it to Telemetry ##
 >Download the latest binary release or build Polkadot or Kusama from source, and run your node. Add it to telemetry as per the README instructions, and let us know when your node appears in the telemetry.polkadot.io list!
 
-[Solution](?)
+[Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/telemetry-kusama.jpg)
 
 ## Set an identity on Kusama or Polkadot's development version ##
 >Substrate-based chains which implement the Identities pallet let users of the chain set some on-chain metadata through which to identify their accounts. Kusama and Polkadot come with identities built in, but on node-template you’d have to manually extend the chain. This challenge takes the easier route: run the --dev version of Kusama or Polkadot, and register an identity on it.
