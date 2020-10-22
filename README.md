@@ -37,14 +37,14 @@ https://gitcoin.co/hackathon/polkadot/projects
 ## Set an identity on Kusama or Polkadot's development version ##
 >Substrate-based chains which implement the Identities pallet let users of the chain set some on-chain metadata through which to identify their accounts. Kusama and Polkadot come with identities built in, but on node-template you’d have to manually extend the chain. This challenge takes the easier route: run the --dev version of Kusama or Polkadot, and register an identity on it.
 
-[Solution](?)
+[Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/onChainIdentity.jpg)
 
 ## FRAME Identity: Set an identity on a local --dev chain [I] ##
 >Substrate-based chains which implement the Identities pallet let users of the chain set some on-chain metadata through which to identify their accounts. Kusama and Polkadot come with identities built in, but on node-template you have to manually extend the chain. Do it. Add the identity pallet to node template, then register an identity of an account on your local development chain.
 
-[Solution](?)
+[Solution](#)
 
 ## Forkless Upgrades [I] ##
 >Perform a forkless runtime upgrade on a local development chain.
 
-[Solution]()
+[Solution](#)
