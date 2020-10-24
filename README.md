@@ -10,6 +10,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 7. [Set an identity on Kusama or Polkadot's development version](#identity)
 - [x] 8. [FRAME Identity: Set an identity on a local --dev chain](#frameidentity)
 - [x] 9. [Forkless Upgrades](#forkless)
+- [ ] 10. [Using Remix And MetaMask On Moonbeam](#moonbeam)
 
 
 
@@ -58,3 +59,8 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 >Perform a forkless runtime upgrade on a local development chain.
 
 [Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/forkless.png)
+
+## Using Remix And MetaMask On Moonbeam <a name="moonbeam"></a>
+>This challenge combines a few different things, centered explicitly in MetaMask and Remix. This can be done using other tools, but we recommend these two as they provide the easiest path to victory. The idea is to deploy an ERC20 token onto Moonbase Alpha, and send at least 5 tokens from one account (referred to as account01 from now on) to another (referred to as account02).
+
+[Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/checkContract.md)
