@@ -1,1 +1,2 @@
 https://github.com/Maar-io/substrate-front-end-template
+https://maar-io.github.io/substrate-front-end-template/
