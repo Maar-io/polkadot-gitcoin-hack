@@ -11,6 +11,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 8. [FRAME Identity: Set an identity on a local --dev chain](#frameidentity)
 - [x] 9. [Forkless Upgrades](#forkless)
 - [x] 10. [Using Remix And MetaMask On Moonbeam](#moonbeam)
+- [x] 11. [Deploy on Moonbase Alpha using Truffle](#moonbeamtruffle)
 
 
 
@@ -64,3 +65,8 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 >This challenge combines a few different things, centered explicitly in MetaMask and Remix. This can be done using other tools, but we recommend these two as they provide the easiest path to victory. The idea is to deploy an ERC20 token onto Moonbase Alpha, and send at least 5 tokens from one account (referred to as account01 from now on) to another (referred to as account02).
 
 [Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/checkContract.md)
+
+## Deploy on Moonbase Alpha using Truffle <a name="moonbeamtruffle"></a>
+>This challenge focuses on using Truffle, a widely used developer tool in Ethereum, to deploy an ERC20 token contract to Moonbase Alpha (Moonbeam TestNet).
+
+[Solution]()
