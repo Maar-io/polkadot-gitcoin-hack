@@ -10,7 +10,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 7. [Set an identity on Kusama or Polkadot's development version](#identity)
 - [x] 8. [FRAME Identity: Set an identity on a local --dev chain](#frameidentity)
 - [x] 9. [Forkless Upgrades](#forkless)
-- [ ] 10. [Using Remix And MetaMask On Moonbeam](#moonbeam)
+- [x] 10. [Using Remix And MetaMask On Moonbeam](#moonbeam)
 
 
 
