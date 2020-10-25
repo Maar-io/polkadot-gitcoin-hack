@@ -69,4 +69,4 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 ## Deploy on Moonbase Alpha using Truffle <a name="moonbeamtruffle"></a>
 >This challenge focuses on using Truffle, a widely used developer tool in Ethereum, to deploy an ERC20 token contract to Moonbase Alpha (Moonbeam TestNet).
 
-[Solution]()
+[Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/moonbaseTruffle.txt)
