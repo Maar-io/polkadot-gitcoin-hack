@@ -12,6 +12,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 9. [Forkless Upgrades](#forkless)
 - [x] 10. [Using Remix And MetaMask On Moonbeam](#moonbeam)
 - [x] 11. [Deploy on Moonbase Alpha using Truffle](#moonbeamtruffle)
+- [x] 12. [Enable Multi-currency Support](#multicurrency)
 
 
 
@@ -70,3 +71,8 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 >This challenge focuses on using Truffle, a widely used developer tool in Ethereum, to deploy an ERC20 token contract to Moonbase Alpha (Moonbeam TestNet).
 
 [Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/moonbaseTruffle.txt)
+
+## Enable Multi-currency Support [I] <a name="multicurrency"></a>
+>Substrate by default only supports a single token. We've developed an open runtime module library specifically orml-token pallet to support multiple tokens. For example, on Acala via this pallet, we can support aUSD (Acala Dollar stablecoin), DOT/KSM, renBTC, PolkaBTC and various other assets. Simply add this into your runtime to enable multi-currency support and starting minting your own tokens.
+
+[Solution](https://github.com/Maar-io/substrate-multicurrency)
