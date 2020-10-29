@@ -13,6 +13,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 10. [Using Remix And MetaMask On Moonbeam](#moonbeam)
 - [x] 11. [Deploy on Moonbase Alpha using Truffle](#moonbeamtruffle)
 - [x] 12. [Enable Multi-currency Support](#multicurrency)
+- [x] 13. [Enable NFT Support](#nft)
 
 
 
@@ -76,3 +77,8 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 >Substrate by default only supports a single token. We've developed an open runtime module library specifically orml-token pallet to support multiple tokens. For example, on Acala via this pallet, we can support aUSD (Acala Dollar stablecoin), DOT/KSM, renBTC, PolkaBTC and various other assets. Simply add this into your runtime to enable multi-currency support and starting minting your own tokens.
 
 [Solution](https://github.com/Maar-io/substrate-multicurrency)
+
+## Enable NFT Support [I] <a name="nft"></a>
+>Substrate by default only supports a single fungible token. We've developed an open runtime module library specifically orml-nft pallet to support Non Fungible Tokens. Simply add this into your runtime to enable NFT support, and start minting NFTs 
+
+[Solution](https://github.com/Maar-io/substrate-nft)
