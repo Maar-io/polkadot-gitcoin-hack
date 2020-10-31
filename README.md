@@ -14,6 +14,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 11. [Deploy on Moonbase Alpha using Truffle](#moonbeamtruffle)
 - [x] 12. [Enable Multi-currency Support](#multicurrency)
 - [x] 13. [Enable NFT Support](#nft)
+- [x] 14. [Build and Run a Local Phala Network](#phala)
 
 
 
@@ -82,3 +83,9 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 >Substrate by default only supports a single fungible token. We've developed an open runtime module library specifically orml-nft pallet to support Non Fungible Tokens. Simply add this into your runtime to enable NFT support, and start minting NFTs 
 
 [Solution](https://github.com/Maar-io/substrate-nft)
+
+##Build and Run a Local Phala Network <a name="phala"></a>
+>In this challenge, you are going to set up a Phala Network "Hello World" development environment, and deploy a full stack of the core blockchain and connect the Web UI to the blockchain. You will try the privacy-preserving “secret tokens” feature on your own local testnet.
+
+[Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/Phala-network.md)
+[Tweet](https://twitter.com/mariovuk/status/1322645734022406146?s=20)
