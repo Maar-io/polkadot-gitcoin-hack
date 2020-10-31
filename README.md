@@ -84,7 +84,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 
 [Solution](https://github.com/Maar-io/substrate-nft)
 
-##Build and Run a Local Phala Network <a name="phala"></a>
+## Build and Run a Local Phala Network <a name="phala"></a>
 >In this challenge, you are going to set up a Phala Network "Hello World" development environment, and deploy a full stack of the core blockchain and connect the Web UI to the blockchain. You will try the privacy-preserving “secret tokens” feature on your own local testnet.
 
 [Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/Phala-network.md)
