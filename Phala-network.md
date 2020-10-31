@@ -1,4 +1,4 @@
-[Tweet](https://twitter.com/mariovuk/status/1322645734022406146?s=20)
+[Tweet](https://twitter.com/Maarr_io/status/1322658688776212486?s=20)
 
 
 ![Phala - nodes](./phala-nodes.png?raw=true "Optional Title")
