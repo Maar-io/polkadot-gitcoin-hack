@@ -88,4 +88,4 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 >In this challenge, you are going to set up a Phala Network "Hello World" development environment, and deploy a full stack of the core blockchain and connect the Web UI to the blockchain. You will try the privacy-preserving “secret tokens” feature on your own local testnet.
 
 [Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/Phala-network.md)
-[Tweet](https://twitter.com/mariovuk/status/1322645734022406146?s=20)
+[Tweet](https://twitter.com/Maarr_io/status/1322658688776212486?s=20)
