@@ -15,6 +15,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 12. [Enable Multi-currency Support](#multicurrency)
 - [x] 13. [Enable NFT Support](#nft)
 - [x] 14. [Build and Run a Local Phala Network](#phala)
+- [x] 15. [Smart contracts - write an ERC-20 smart contract with ink!](#erc20)
 
 
 
@@ -89,3 +90,8 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 
 [Solution](https://github.com/Maar-io/polkadot-gitcoin-hack/blob/main/Phala-network.md)
 [Tweet](https://twitter.com/Maarr_io/status/1322658688776212486?s=20)
+
+## Smart contracts - write an ERC-20 smart contract with ink! [I]<a name="erc20"></a>
+>Add the Contracts pallet to the Node Template and write an ERC-20 smart contract in ink!.
+
+[Solution](https://github.com/Maar-io/substrate-erc20/tree/master)
