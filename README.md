@@ -16,6 +16,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 13. [Enable NFT Support](#nft)
 - [x] 14. [Build and Run a Local Phala Network](#phala)
 - [x] 15. [Smart contracts - write an ERC-20 smart contract with ink!](#erc20)
+- [x] 16. [FRAME Development](#framedev)
 
 
 
@@ -95,3 +96,8 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 >Add the Contracts pallet to the Node Template and write an ERC-20 smart contract in ink!.
 
 [Solution](https://github.com/Maar-io/substrate-erc20/tree/master)
+
+## FRAME Development [I] <a name="framedev"></a>
+>Update the Pallet Template to include a storage item for a custom struct. Add at least one dispatchable function to interact with the new storage item. Add the necessary types to the Front-End Template to interact with the new dispatchable.
+
+[Solution](https://github.com/Maar-io/substrate-framedev)
