@@ -17,6 +17,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 14. [Build and Run a Local Phala Network](#phala)
 - [x] 15. [Smart contracts - write an ERC-20 smart contract with ink!](#erc20)
 - [x] 16. [FRAME Development](#framedev)
+- [x] 17. [REST APIs - Read An Account's Pending Payouts](#payouts)
 
 
 
@@ -101,3 +102,10 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 >Update the Pallet Template to include a storage item for a custom struct. Add at least one dispatchable function to interact with the new storage item. Add the necessary types to the Front-End Template to interact with the new dispatchable.
 
 [Solution](https://github.com/Maar-io/substrate-framedev)
+
+## REST APIs - Read An Account's Pending Payouts [A] <a name="payouts"></a>
+>Read an account's pending payouts with a combination of a local instance of Sidecar and a local Kusama node.
+
+[Solution](./pending-payouts)
+
+
