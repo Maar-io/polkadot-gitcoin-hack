@@ -1,0 +1,89 @@
+{
+  "contract": {
+    "authors": [
+      "unknown"
+    ],
+    "name": "flipper",
+    "version": "0.0.1"
+  },
+  "metadataVersion": "0.1.0",
+  "source": {
+    "compiler": "solang 0.1.4",
+    "hash": "0x8640dd4c7c001a92e738c5cba4fe96d995ac43a3b1910de305d06d6f04f010e4",
+    "language": "Solidity 0.1.4"
+  },
+  "spec": {
+    "constructors": [
+      {
+        "args": [
+          {
+            "name": "initvalue",
+            "type": {
+              "display_name": [
+                "bool"
+              ],
+              "type": 1
+            }
+          }
+        ],
+        "docs": [
+          "Constructor that initializes the `bool` value to the given `init_value`.\n\n"
+        ],
+        "name": "new",
+        "selector": "0xf81e7e1a"
+      }
+    ],
+    "events": [],
+    "messages": [
+      {
+        "args": [],
+        "docs": [
+          "A message that can be called on instantiated contracts. This one flips the value of the stored `bool` from `true` to `false` and vice versa.\n\n"
+        ],
+        "mutates": true,
+        "name": "flip",
+        "payable": false,
+        "return_type": null,
+        "selector": "0xcde4efa9"
+      },
+      {
+        "args": [],
+        "docs": [
+          "Simply returns the current value of our `bool`.\n\n"
+        ],
+        "mutates": false,
+        "name": "get",
+        "payable": false,
+        "return_type": {
+          "display_name": [
+            "bool"
+          ],
+          "type": 1
+        },
+        "selector": "0x6d4ce63c"
+      }
+    ]
+  },
+  "storage": {
+    "struct": {
+      "fields": [
+        {
+          "layout": {
+            "cell": {
+              "key": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "ty": 1
+            }
+          },
+          "name": "value"
+        }
+      ]
+    }
+  },
+  "types": [
+    {
+      "def": {
+        "primitive": "bool"
+      }
+    }
+  ]
+}
