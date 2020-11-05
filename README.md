@@ -1,6 +1,6 @@
 Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/projects)
 
-#Completed tasks:
+# Completed tasks:
 - [x] 1. [Launch A Local Substrate Development Chain](#launch)
 - [x] 2. [Run A Private Substrate Network](#private)
 - [x] 3. [Play With Westend](#westend)
