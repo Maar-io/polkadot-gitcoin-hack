@@ -1,5 +1,11 @@
 Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/projects)
-
+* Polkadot address : 14irTviGBPzG6HPkYrQDQbF3pZCcrKW3MZ1ygbvx6xZFELpu
+* Kusama address   : GJAyuo4wyjiQQCgMvAGAPmu7XVCxgm5jS8EuyDZ2fkDo1pR
+* Twitter : https://twitter.com/Maarr_io
+* e-mail : mariovukelic@gmail.com
+ 
+ 
+ 
 # Completed tasks:
 - [x] 1. [Launch A Local Substrate Development Chain](#launch)
 - [x] 2. [Run A Private Substrate Network](#private)
