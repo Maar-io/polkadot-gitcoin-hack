@@ -18,7 +18,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 15. [Smart contracts - write an ERC-20 smart contract with ink!](#erc20)
 - [x] 16. [FRAME Development](#framedev)
 - [x] 17. [REST APIs - Read An Account's Pending Payouts](#payouts)
-
+- [x] 18. [FRAME Multisig](#multisig)
 
 
 ## Launch A Local Substrate Development Chain <a name="launch"></a>
@@ -108,4 +108,8 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 
 [Solution](./pending-payouts)
 
+## FRAME Multisig [A] <a name="multisig"></a>
+>Add the Multisig pallet to the Node Template and create a Polkadot-JS script to make a multisig transaction. Use the Front-End Template to create a multisig UI component.
+
+[Solution](https://github.com/Maar-io/substrate-multisig)
 
