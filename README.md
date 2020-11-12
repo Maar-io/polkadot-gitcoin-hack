@@ -25,6 +25,7 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 - [x] 16. [FRAME Development](#framedev)
 - [x] 17. [REST APIs - Read An Account's Pending Payouts](#payouts)
 - [x] 18. [FRAME Multisig](#multisig)
+- [x] 19. [Smart Contracts - Build A Charity Raffle](#raffle)
 
 
 ## Launch A Local Substrate Development Chain <a name="launch"></a>
@@ -118,4 +119,9 @@ Polkadot Hello World!  [Hackathon](https://gitcoin.co/hackathon/polkadot/project
 >Add the Multisig pallet to the Node Template and create a Polkadot-JS script to make a multisig transaction. Use the Front-End Template to create a multisig UI component.
 
 [Solution](https://github.com/Maar-io/substrate-multisig)
+
+## Smart Contracts - Build A Charity Raffle <a name="raffle"></a>
+>Beyond the basics with ink and ERC20s? Build a charity raffle!
+
+[Solution](https://github.com/Maar-io/substrate-erc20/tree/master/raffle)
 
